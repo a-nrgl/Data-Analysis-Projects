@@ -3,6 +3,12 @@
 Bu projede, eğitmen tarafından sağlanan veri setleri Power BI’a uygun hale getirilerek **Excel formatında** kullanılmıştır.  
 Veri seti; **farklı sektörlerdeki (gıda, kozmetik vb.) markaların kullanıcı, sipariş ve ürün bilgilerini** içermektedir.
 
+Dosya boyutu büyük olduğu için GitHub’a yüklenememiştir.  
+Proje dosyasına aşağıdaki Google Drive bağlantısından erişebilirsiniz:
+
+🔗 [Power BI Proje Dosyası](https://drive.google.com/file/d/1ReimcKRTvRHhwA-k017WgiB7Qe_qqnjI/view?usp=drive_link)
+
+
 Proje iki aşamada gerçekleştirilmiştir:
 1. Öncelikle görev listesindeki sorgulama işlemleri tamamlanmıştır.
 2. Ardından bir marka seçilerek, bu markaya özel olarak **Özet**, **Müşteri** ve **Kategori** perspektifinden dashboard’lar hazırlanmıştır.
