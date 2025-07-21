@@ -17,12 +17,26 @@ Proje iki aşamada gerçekleştirilmiştir:
 
 ## 📌 Rapor İçeriği
 
+### 🔹 Giriş Sayfası
+
+## 📊 Proje Görseli
+
+Projenin giriş sayfasına ait ekran görüntüsü:
+
+![Dashboard](https://github.com/a-nrgl/Data-Analysis-Projects/blob/main/Last_final_case/p1.png)
+---
+
 ### 🔹 Özet Sayfası
 - Haftaiçi ve haftasonu satış adetlerini karşılaştıran grafik
 - Bölgelere göre toplam satış adetini gösteren grafik
 - Saatlik satış tutarını gösteren grafik
 - Kartlar şeklinde sunulan özet metrikler
 
+## 📊 Proje Görseli
+
+Projenin özet sayfasına ait ekran görüntüsü:
+
+![Dashboard](https://github.com/a-nrgl/Data-Analysis-Projects/blob/main/Last_final_case/p2.png)
 ---
 
 ### 🔹 Müşteri Sayfası
@@ -31,6 +45,12 @@ Proje iki aşamada gerçekleştirilmiştir:
 - Yaş grubuna göre satış dağılımı (grafik)
 - Kartlarla gösterilen müşteri metrikleri
 
+## 📊 Proje Görseli
+
+Projenin müşteri sayfasına ait ekran görüntüsü:
+
+![Dashboard](https://github.com/a-nrgl/Data-Analysis-Projects/blob/main/Last_final_case/p3.png)
+---
 ---
 
 ### 🔹 Kategori Sayfası
@@ -38,6 +58,13 @@ Proje iki aşamada gerçekleştirilmiştir:
   → Ağaç haritası (Tree Map) ile görselleştirilmiştir
 - Kartlarla gösterilen kategori bazlı özet ölçüler
 
+## 📊 Proje Görseli
+
+Projenin kategori sayfasına ait ekran görüntüleri:
+
+![Dashboard](https://github.com/a-nrgl/Data-Analysis-Projects/blob/main/Last_final_case/p4.png)
+
+![Dashboard](https://github.com/a-nrgl/Data-Analysis-Projects/blob/main/Last_final_case/p5.png)
 ---
 
 
