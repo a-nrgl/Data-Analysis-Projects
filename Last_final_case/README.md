@@ -6,7 +6,7 @@ Veri seti; **farklı sektörlerdeki (gıda, kozmetik vb.) markaların kullanıc�
 Dosya boyutu büyük olduğu için GitHub’a yüklenememiştir.  
 Proje dosyasına aşağıdaki Google Drive bağlantısından erişebilirsiniz:
 
-🔗 [Power BI Proje Dosyası](https://drive.google.com/file/d/1ReimcKRTvRHhwA-k017WgiB7Qe_qqnjI/view?usp=drive_link)
+🔗 [Power BI Proje Dosyası](https://drive.google.com/drive/folders/1aZDqlxuj6eEKTVQYWXOUnVczCXszHWv3)
 
 
 Proje iki aşamada gerçekleştirilmiştir:
